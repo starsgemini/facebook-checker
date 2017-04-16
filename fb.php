@@ -1,4 +1,7 @@
 <?php
+//XNOD_DIE
+//AKU CINTA INDONESIA
+include "dom.php";
 $email="email@email.com";
 $pass="akucintaindonesia";
 $ch = curl_init();
